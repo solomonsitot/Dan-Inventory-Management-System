@@ -1,4 +1,4 @@
-# Dan-Inventory-Management-System ![logo](https://github.com/solomonsitot/Dan-Inventory-Management-System/blob/main/logo.png)
+![logo](https://github.com/solomonsitot/Dan-Inventory-Management-System/blob/main/logo.png)
 
 ## Overview
 
